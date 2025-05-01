@@ -37,7 +37,7 @@ This project is a simple digital library management system developed in Java. Th
 
 2. **Clone the Repository:**
    ```bash
-   git clone <https://github.com/zeghouaneleila>
+   git clone <https://github.com/kouidimedadel>
 
    ```
 
@@ -63,5 +63,5 @@ This project is a simple digital library management system developed in Java. Th
 
 ## Author Information
 
-- **Name:** [Zeghouane Leila]
+- **Name:** [قويضي محمد عادل]
 - **Group:** [Group 04]
